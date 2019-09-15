@@ -910,7 +910,7 @@ base_chart +
   grattan_fill_manual(2)
 ```
 
-To add labels, first decide where they should go. Try positioning the `r col_text("Professional", grattan_red)` above its averages, and `r col_text("Non-professional", grattan_orange)` at the bottom. 
+To add labels, first decide where they should go. Try positioning the "Professional" above its averages, and "Non-professional" at the bottom. 
 
 Like labelling before, you should create a new dataset with your label information, and pass that label dataset to the `grattan_label` function:
 
